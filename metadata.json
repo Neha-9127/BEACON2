@@ -1,0 +1,12 @@
+{
+  "name": "Remix Remix Remix Remix Remix Remix Remix Remix Remix Remix Remix BEACON - Unified Incident Reporting \u0026 Admin Triage Console",
+  "description": "BEACON unified multi-agency platform: citizen mobile reporting with floating AI civic chatbot, geo-fenced safety alerts, municipal webhook workflows, and multi-agency admin triage console with bulk operations, duplicate merging, and spatial analytics heatmaps.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
